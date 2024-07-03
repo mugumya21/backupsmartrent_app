@@ -1,0 +1,15 @@
+"/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/NSImage+SwiftyGif.swift":
+  dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImage+SwiftyGif.d"
+  swift-dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImage+SwiftyGif.swiftdeps"
+  object: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImage+SwiftyGif.o"
+  diagnostics: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImage+SwiftyGif.dia"
+"/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/NSImageView+SwiftyGif.swift":
+  swift-dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImageView+SwiftyGif.swiftdeps"
+  object: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImageView+SwiftyGif.o"
+  diagnostics: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImageView+SwiftyGif.dia"
+  dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/NSImageView+SwiftyGif.d"
+"/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/ObjcAssociatedWeakObject.swift":
+  dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/ObjcAssociatedWeakObject.d"
+  swift-dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/ObjcAssociatedWeakObject.swiftdeps"
+  object: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/ObjcAssociatedWeakObject.o"
+  diagnostics: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/arm64/ObjcAssociatedWeakObject.dia"

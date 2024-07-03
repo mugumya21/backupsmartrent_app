@@ -1,0 +1,15 @@
+"/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/ObjcAssociatedWeakObject.swift":
+  diagnostics: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/ObjcAssociatedWeakObject.dia"
+  dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/ObjcAssociatedWeakObject.d"
+  swift-dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/ObjcAssociatedWeakObject.swiftdeps"
+  object: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/ObjcAssociatedWeakObject.o"
+"/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/NSImage+SwiftyGif.swift":
+  object: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImage+SwiftyGif.o"
+  dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImage+SwiftyGif.d"
+  diagnostics: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImage+SwiftyGif.dia"
+  swift-dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImage+SwiftyGif.swiftdeps"
+"/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/NSImageView+SwiftyGif.swift":
+  swift-dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImageView+SwiftyGif.swiftdeps"
+  dependencies: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImageView+SwiftyGif.d"
+  diagnostics: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImageView+SwiftyGif.dia"
+  object: "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/SwiftyGif.build/Objects-normal/x86_64/NSImageView+SwiftyGif.o"

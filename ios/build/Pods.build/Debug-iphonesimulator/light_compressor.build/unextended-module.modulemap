@@ -1,0 +1,10 @@
+framework module light_compressor {
+  umbrella header "light_compressor-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module light_compressor.__Swift {
+  exclude header "light_compressor-Swift.h"
+}

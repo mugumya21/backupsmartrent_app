@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f9e50cc943ecace81b6dd5f3d2d2b7c9d48bcaa95862ec4c7984cbeb1d006b32"
+build_start_time: [1709943575, 809011000]
+build_end_time: [1709943576, 32747000]
+inputs:
+  "/Users/ian/.pub-cache/hosted/pub.dev/record-4.4.4/ios/Classes/SwiftRecordPlugin.swift": !private [1700705981, 463944124]

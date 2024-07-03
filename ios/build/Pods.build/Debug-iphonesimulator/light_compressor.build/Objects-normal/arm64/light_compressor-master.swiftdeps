@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "a5848413567c1ebf5b041c4e5b6d601aabd0c0ad64792803d24bfe50e03fa4d6"
+build_start_time: [1709943596, 374502000]
+build_end_time: [1709943718, 88830000]
+inputs:
+  "/Users/ian/.pub-cache/hosted/pub.dev/light_compressor-2.2.0/ios/Classes/LightCompressor.swift": [1700706030, 940756493]
+  "/Users/ian/.pub-cache/hosted/pub.dev/light_compressor-2.2.0/ios/Classes/SwiftLightCompressorPlugin.swift": [1700706031, 20048518]
+  "/Users/ian/.pub-cache/hosted/pub.dev/light_compressor-2.2.0/ios/Classes/extensions/Encodable.swift": [1700706030, 843278480]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "57d0e48e2ad3e4765d8fd131e4251d5b68908b85f568b2b1ea754f1f21667442"
+build_start_time: [1709943603, 162648000]
+build_end_time: [1709943603, 380043000]
+inputs:
+  "/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/NSImage+SwiftyGif.swift": !private [1709927269, 978236800]
+  "/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/NSImageView+SwiftyGif.swift": !private [1709927269, 997836531]
+  "/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/ObjcAssociatedWeakObject.swift": !private [1709927269, 980249285]
+  "/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/SwiftyGifManager.swift": !private [1709927269, 994861072]
+  "/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/UIImage+SwiftyGif.swift": !private [1709927269, 982483818]
+  "/Users/ian/Documents/smartrent_app/ios/Pods/SwiftyGif/SwiftyGif/UIImageView+SwiftyGif.swift": !private [1709927269, 975888980]

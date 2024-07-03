@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ian/Documents/smartrent_app/ios/build/Debug-iphonesimulator/record/record.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/record.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ian/Documents/smartrent_app/ios/build/Debug-iphonesimulator/record/record.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "record-Swift.h",
+      'external-contents': "/Users/ian/Documents/smartrent_app/ios/build/Pods.build/Debug-iphonesimulator/record.build/unextended-interface-header.h",
+    }]
+    }]
+}

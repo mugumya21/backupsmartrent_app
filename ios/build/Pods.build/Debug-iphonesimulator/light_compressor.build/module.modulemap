@@ -1,0 +1,11 @@
+framework module light_compressor {
+  umbrella header "light_compressor-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module light_compressor.Swift {
+  header "light_compressor-Swift.h"
+  requires objc
+}
